@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srushti Patil</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<b>💡I'm Web Developer and I enjoy taking complex problems and turning them into simple designs using my coding skills. 
+<b>💡I'm Full Stack Web Developer and I enjoy taking complex problems and turning them into simple designs using my coding skills. 
 <br>👯 I’m looking to collaborate on  different open-source projects:)
 <br>🌱 Currently Working on Problem Solving Skills in DSA & exploring MERN Stack.<br>
 <br>📫 How to reach me **srushtipatil2603@gmail.com**
