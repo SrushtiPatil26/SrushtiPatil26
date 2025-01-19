@@ -5,6 +5,7 @@
 <br>👯 I’m looking to collaborate on  different open-source projects:)
 <br>🌱 Currently Working on Problem Solving Skills in DSA & exploring MERN Stack.<br>
 <br>📫 How to reach me **srushtipatil2603@gmail.com**
+<br>Junior Software Engineer.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
